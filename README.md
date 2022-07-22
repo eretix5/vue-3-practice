@@ -1,4 +1,4 @@
-# untitled2
+# vue-3-practice
 
 ## Project setup
 ```
